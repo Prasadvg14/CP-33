@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.li {
+  list-style-type: none;
+  height: 35vh;
+  width: 15vw;
+  border-radius: 10px;
+  background-color: #f8f8ff;
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.avatar {
+  height: 13vh;
+  width: 8vw;
+}
+
+.heading {
+  color: #e73959;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.icon {
+  height: 15px;
+  width: 20px;
+  margin-right: 5px;
+  margin: 0px;
+}
+.detail {
+  width: 8vw;
+  display: flex;
+  align-items: center;
+  margin: 4px;
+}
+.p {
+  margin: 0px;
+  margin-left: 10px;
+}
+.details {
+  width: 10vw;
+}
+h1 {
+  font-family: lobster;
+}

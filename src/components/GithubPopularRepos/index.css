@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.bg {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.l-list {
+  margin-top: 30px;
+  padding: 0%;
+  list-style-type: none;
+  width: 40vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.i-list {
+  width: 50vw;
+  display: flex;
+  flex-wrap: wrap;
+}
